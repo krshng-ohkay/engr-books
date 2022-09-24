@@ -1,4 +1,6 @@
 # engr-books
 
-- [2nd year syllabus](./EXTC_SYLL_R19.pdf)
-- [sem 3](./03-sem)
+- *SE*:
+  - [syllabus](./EXTC_SYLL_R19.pdf)
+  - [sem 3 books](./03-sem)
+  - [sem 4 books](./03-sem)
