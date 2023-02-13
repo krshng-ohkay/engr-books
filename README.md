@@ -12,4 +12,5 @@
     - [lic](./02-year/04-sem/lic)
     - [ss](./02-year/04-sem/ss)
     - [pce](./02-year/04-sem/pce)
+    - [em4](./02-year/04-sem/em4)
     - [pyt](./02-year/04-sem/pyt)
