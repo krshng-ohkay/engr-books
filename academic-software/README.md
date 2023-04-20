@@ -1,4 +1,4 @@
-# [Instructions](./instructions)
+# Software for Academic Usage
 
 - check out the [**RELEASES**](https://github.com/krshng-ohkay/engr-books/releases) page for
   all the zip files for the software
